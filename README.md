@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Rafiya Shahana<br><br>🌱 I'm currently learning Web Development Technologies in Frontend and other cool stuff!<br>💬 Ask me about anything related to HTML, CSS, Javascript and unicorns.<br>😄 Pronouns: she/her.<br>📫 How to reach me:<br>(https://www.rafiyashahana.github.io)<br>🚀 Fun fact: My first piece of code wasn't the "Hello World".<br><br>
+Hi there, I'm Rafiya Shahana<br><br>🌱 I'm currently learning Web Development Technologies in Frontend and other cool stuff!<br>💬 Ask me about anything related to HTML, CSS, Javascript and unicorns.<br>😄 Pronouns: she/her.<br>📫 How to reach me:<br>(https://rafiyashahana.github.io)<br>🚀 Fun fact: My first piece of code wasn't the "Hello World".<br><br>
 
 
 ## 🌐 Socials:
